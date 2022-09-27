@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+Here are some of the projects I have worked on during my PhD and spare time
+
+## Shiny applications
+
+-   **Calibration Helper** - An application to construct calibration lists for use with mass spectrometry data. [Live version here](https://kairos.warwick.ac.uk/calibration_helper/)
+
+-   **Method Digester** - An application to read Bruker .method (XML) files for FTICR mass spectrometers. [Live version here](https://kairos.warwick.ac.uk/method_digester/)
+
+-   **Kendrick Mass Defect Tool** - An application to plot a Kendrick mass defect (KMD) plot. [Live version here](https://kairos.warwick.ac.uk/KMDT/)
+
+-   **VKSim** - An application to simulate various reactions on a van Krevelen diagram. [Live version here](http://go.warwick.ac.uk/VKSim)
+
+-   **InterLabStudy** -
+    Tool to compare DOM data from various laboratories to a standard molecular assignment. More details can be found on the [InterLabStudy GitHub page](https://github.com/BarrowResearchGroup/InterLabStudy) 
+
+
