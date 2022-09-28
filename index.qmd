@@ -2,6 +2,7 @@
 title: "Hugh E. Jones"
 about:
   template: solana
+  image: figures//hugh.jpg
   links:
     - icon: github
       text: Github
